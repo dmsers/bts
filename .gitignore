@@ -1,0 +1,24 @@
+# API Secrets & Database Credentials
+.env
+
+# Python clutter
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Project-specific logs and data
+logs/
+data/*.db
+data/*.csv
+
+# Local scratch and debug scripts
+scratch/
+
+# Mac system files
+.DS_Store
+
+# Local convenience scripts
+*.command
+*.xlsx
+.~lock.*#
+cookies.txt
