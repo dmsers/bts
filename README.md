@@ -187,6 +187,10 @@ To refresh the player ID crosswalk (recommended every few weeks during the seaso
   [Chadwick Baseball Bureau Register](https://github.com/chadwickbureau/register),
   licensed under the
   [Open Data Commons Attribution License v1.0](http://opendatacommons.org/licenses/by/1.0/).
+- BTS was built with help from [Claude](https://claude.ai) by Anthropic,
+  which assisted throughout the project, from the code and debugging to the
+  2026 season analysis. Google's [Gemini](https://gemini.google.com) also
+  contributed, including a round of model tuning in May 2026.
 
 ## License
 
