@@ -96,6 +96,13 @@ Intermediate model inputs are logged with each recommendation so a learned model
 (e.g., logistic regression or gradient boosting) can later be trained and compared
 against this baseline.
 
+## 2026 Season Analysis
+
+[docs/BTS_2026_Factor_Breakdown.md](docs/BTS_2026_Factor_Breakdown.md) reviews the 2026
+season: how the model changed version by version, which inputs (pitcher matchups,
+strikeout rates, lineups, ballparks) actually moved the hit rate, and which inputs
+weren't working. `export_factor_data.py` produces the data it uses.
+
 ## Database Tables
 
 | Table | Purpose |
